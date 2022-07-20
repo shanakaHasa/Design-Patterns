@@ -1,2 +1,3 @@
 # Design-Patterns
-Virtusa Assignment
+Virtusa Assignment for Java Design Patterns 
+E.A.S.H Edirisinghe
